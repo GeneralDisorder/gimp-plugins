@@ -18,9 +18,13 @@ Here follows a description of all the scripts and plugins that are part of this 
 
 ### CoC Handoutify
 This script was designed to convert any picture into a fairly unrealistic but thematic faux-sepia-photograph, for use in my Call of Cthulhu campaigns.
+Works well on photographs, both black & white and color, as well as on digital media. 
+
 It can be found in the menu `Filters/CoC`
 
 **WARNING:** This filter will flatten and resize your image. To protect your work, use the "Work on a copy" option.
+
+![Handoutified picture of Winston Churchill](https://github.com/GeneralDisorder/gimp-plugins/blob/main/Churchill.png)
 
 The settings you can change are:
 * Work on a copy?
