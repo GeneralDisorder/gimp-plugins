@@ -16,7 +16,7 @@ By placing the .py scripts in any of these folders, they will be automatically l
 ## Scripts/Plug-ins
 Here follows a description of all the scripts and plugins that are part of this repository.
 
-### CoC Handoutify
+### CoC Handoutify (coc-handout.py)
 This script was designed to convert any picture into a fairly unrealistic but thematic faux-sepia-photograph, for use in my Call of Cthulhu campaigns.
 Works well on photographs, both black & white and color, as well as on digital media. 
 
